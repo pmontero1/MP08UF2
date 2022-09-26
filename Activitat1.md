@@ -1,6 +1,6 @@
 # Cas 1
 
-![](Captura 1.png)
+![alt text](Captura 1.png)
 
 
 ### Index
