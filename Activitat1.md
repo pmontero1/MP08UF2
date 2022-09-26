@@ -37,5 +37,15 @@ ALGUNES CARACTERÍSTIQUES:
 * Escaneig de documents
 
 Amb aquesta solució tindrem les nostres còpies de seguretat en perfecte estat.
+
 ## El pressupost mensual i anual de la despesa del servei a contractar.
+![alt text](Taula1.png)
+
+Amb lo Pla anual de Google Drive Premium ens ahorrem 19,89€ a si pagasem sol mensualment.
+
+## Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
+
+
+
+
 
