@@ -45,7 +45,23 @@ Amb lo Pla anual de Google Drive Premium ens ahorrem 19,89€ a si pagasem sol m
 
 ## Guia de creació de les unitats compartides BACKUP i DOCUMENTS on es vegin els permisos assignats a cada tipus d’usuari/a.
 
+En aquesta imatge podem observar com podem donar permisos als altres usuaris en aquest cas sols l’administrador té accés per a editar lo document mentres que l’altre usuari sols pot veure.
+
+![alt text](Captura2.png)
+
+
+En qualsevol moment l’administrador pot modificar els permisos dels ALTRES USUARIS en aquest cas 
+
+![alt text](Captura3.png)
 
 
 
+com es la carpeta de DOCUMENTS els usuaris normals només  tindrien que tindre els permisos de lectura.
+![alt text](Captura4.png)
 
+En aquesta carpeta que es la de BACKUP sols té accés l’administrador.
+
+
+## Guia d’instal·lació d’adreces directes als escriptoris dels dos tipus d’usuaris: Administrador/a i usuari/a.
+* Obrir Paràmetres.
+  
