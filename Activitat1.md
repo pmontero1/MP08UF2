@@ -64,4 +64,63 @@ En aquesta carpeta que es la de BACKUP sols té accés l’administrador.
 
 ## Guia d’instal·lació d’adreces directes als escriptoris dels dos tipus d’usuaris: Administrador/a i usuari/a.
 * Obrir Paràmetres.
+
+
+
+ ![alt text](Conf1.png)
+
+
+* Buscar Comptes en Linea
+
+
+ ![alt text](Conf2.png)
+ 
+ 
+ *Entrem a l'opció de google
+ 
+ 
+ 
+ ![alt text](Config4.png)
+ 
+ * Iniciem Sessió amb el compte que volem tenir accés des de l'escriptori.
+
+
+ ![alt text](Config5.png)
+
+
+
+
+ ![alt text](Config6.png)
+ 
+ * Un cop els anteriors passos fets el nostre google drive apareix en els nostres fitxers.
+
+
+
+ ![alt text](Config8.png)
+
+
+
+ ![alt text](1.png)
+ 
+ 
+ 
+ 
+ 
+ 
+  ![alt text](2.png)
   
+  
+  
+  
+  
+  
+  
+  
+   ![alt text](3.png)
+   
+   
+   
+   
+   
+   
+   ![alt text](4.png)
