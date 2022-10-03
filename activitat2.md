@@ -145,3 +145,14 @@ Reiniciem Apache:
 
 
 ![alt text](21ouncloud.png)
+
+
+
+
+
+
+
+** Explicació de les linies del fitxer Owmcloud.conf:
+
+
+![alt text](owncloudLinies.jpg)
