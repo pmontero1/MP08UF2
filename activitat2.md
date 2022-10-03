@@ -156,3 +156,7 @@ Reiniciem Apache:
 
 
 ![alt text](owncloudLinies.jpg)
+
+
+
+1r adresa web del admin 2 on volem que aparegui la gent que entra al servei 3 Nom del servidor
