@@ -160,3 +160,15 @@ Reiniciem Apache:
 
 
 1r adresa web del admin 2 on volem que aparegui la gent que entra al servei 3 Nom del servidor
+
+
+
+
+* Què fa la comanda a2ensite?
+Espais web que estan en enable.
+* I la comando a2dissite?
+Espais web que estan en dissable
+* Què significa la línia de /etc/hosts
+El nom dns que te l'espai web i la ip del cual.
+127.0.0.1 owncloud.XYZ.com
+
