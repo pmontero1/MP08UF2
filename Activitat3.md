@@ -46,3 +46,68 @@ es pot esborrar un cert període de temps
 o arxivat automàticament, si hi ha dades crítiques. A canvi, els fitxers es poden conservar més temps si cal. El connector File Firewall comprova cada sol·licitud d'accés amb una llista de
 regles i polítiques, protecció contra l'accés
 mitjançant usuaris fora de les oficines corporatives i o fins i tot desactivant l'accés des de països d'alt risc.
+
+- Això passa a tots els països?
+
+
+
+SI
+
+
+
+
+- Quina és la llicència d'OWncloud Enterprise?
+
+
+
+ownCloud Commercial License
+
+
+
+- I la d'Owncloud Standard?
+
+
+AGPLv3
+
+
+
+- Es poden veure videos en Streaming directament des de Owncloud?
+
+
+![alttext](videoprova.png)
+
+
+
+- Es poden connectar directoris de Google Drive a Owncloud?
+
+
+![alttext](google.png)
+
+
+- I Dropbox?
+
+
+
+![alttext](google2.png)
+
+
+
+- Compta Owncloud amb antivirus? En cas afirmatiu com es diu?
+
+
+![alttext](virus.png)
+
+
+
+** 3.4.- Mostra els següents canvis de paràmetres d'usuari:
+
+Posa't una imatge d'usuari.
+Afegeix el teu mail de l'Institut.
+Canvia l'idioma a català.
+Mostra la versió d'Owncloud instal·lada.
+
+![alttext](3.4-2.png)
+
+
+
+![alttext](3.2.1.png)
