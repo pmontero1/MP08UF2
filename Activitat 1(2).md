@@ -78,3 +78,58 @@ PHP.ini 5000
 Instalacio Moodle 
 ![image](https://user-images.githubusercontent.com/114423170/205715276-57a3d7bc-2e38-4ce1-86da-652210995301.png)
 
+Cambiar La ip 
+![image](https://user-images.githubusercontent.com/114423170/207100678-d38d5cf5-db47-469c-aefe-0b636abd756f.png)
+
+Creació de Categories
+
+![image](https://user-images.githubusercontent.com/114423170/207101846-34bfcd4f-1922-4392-9fc8-166f316231f4.png)
+
+
+
+![image](https://user-images.githubusercontent.com/114423170/207101747-07c005a4-4f9c-4a9e-a162-5beb82614ce3.png)
+
+
+
+Creacio dels cursos
+
+
+![image](https://user-images.githubusercontent.com/114423170/207116379-064e3a21-ce38-451d-b90f-571cc450bbe7.png)
+
+
+
+Cursos Creats
+
+![image](https://user-images.githubusercontent.com/114423170/207120138-96d9bd3e-8de8-463f-b402-8132c97e664a.png)
+
+
+
+
+
+Dins de Moodle hi ha diferents tipus d'usuaris:
+
+Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+Alumne , Professor, Administrador
+Quins rols poden assignar cada tipus d'usuaris?
+Alumne: Puixar Treballs i accredir als cursos.
+Professor: Crear Tasques, avaluarles i editar entregues i el del Alumne.
+Admin: Tot el dels altres usuaris i crear, modificar cursos,Categories, etc...
+
+Crea tres usuaris:
+
+Un Professor anomenat Cognom_1_profe.
+
+Un Professor anomenat Cognom_2_profe.
+
+Un professor No editor anomenat Cognom_3_profe.
+
+![image](https://user-images.githubusercontent.com/114423170/207123364-9b3d249a-4674-44db-ae59-1f598efd92b9.png)
+
+
+
+Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
+
+
+![image](https://user-images.githubusercontent.com/114423170/207125645-e9da194c-9a34-456b-9413-05d98536ffcb.png)
+
