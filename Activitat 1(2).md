@@ -133,3 +133,42 @@ Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniam
 
 ![image](https://user-images.githubusercontent.com/114423170/207125645-e9da194c-9a34-456b-9413-05d98536ffcb.png)
 
+
+Fes que Cognom_1_profe sigui professor dels cursos: MP04, MP12, MP08 i MP07.
+
+![image](https://user-images.githubusercontent.com/114423170/208449587-4d4e2f8f-5506-45ae-9add-d1f46ed57fea.png)
+
+Fem Click a Participantes:
+
+![image](https://user-images.githubusercontent.com/114423170/208449716-29d22339-9f55-4a44-9a90-7e95ada4c2fc.png)
+
+
+Donem a Matricular Usuarios i agreguem l'usuari.
+
+
+![image](https://user-images.githubusercontent.com/114423170/208449893-74d4a5f6-f2d3-4d1e-85b5-87181676bdd7.png)
+
+
+![image](https://user-images.githubusercontent.com/114423170/208450020-021252b8-1275-479c-bc02-38e9195a9d07.png)
+
+
+
+Aixi amb els demes cursos.
+
+
+
+Fes que Cognom_2_profe sigui professor dels cursos: MP10, MP06 i TUTORIA.
+
+![image](https://user-images.githubusercontent.com/114423170/208450240-8924137b-5662-4cd0-94cb-46f71d82d757.png)
+
+El mateix amb els demes cursos.
+
+Fes que Cognom_3_profe sigui professor de tots els cursos.
+
+![image](https://user-images.githubusercontent.com/114423170/208450428-39d8b4ed-c156-487a-882e-2166ea485b33.png)
+
+El mateix amb els demes cursos.
+
+
+
+
