@@ -54,7 +54,6 @@ Admin: Tot el dels altres usuaris i crear, modificar cursos,Categories, etc...
 
 
 
-
 ## Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
 
 
