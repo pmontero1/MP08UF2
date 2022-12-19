@@ -1,7 +1,6 @@
 # Personalitzar Perfil
 
-## Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge.
-## Canvia la seva contrasenya.
+## Entra a un usuari de Moodle i personalitza el seu perfil amb una imatge. Canvia la seva contrasenya.
 
 ![image](https://user-images.githubusercontent.com/114423170/208456391-e74f084f-8787-4b86-88c6-4fd13b8a3bb9.png)
 
