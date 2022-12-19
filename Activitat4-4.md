@@ -145,12 +145,16 @@ Anem a area personal amb mode editor i afeixim un nou bloc, busquem el de cursos
 
 Afegeix a baix de tot "Usuaris en línia".
 
+![image](https://user-images.githubusercontent.com/114423170/208493212-e10809f7-e071-4f71-82a7-e425b700f3b5.png)
+
+El mateix peró sel.leccionem usuaris en linia.
+
+# Canvia el tema del Moodle:
 
 
+![image](https://user-images.githubusercontent.com/114423170/208494122-a04bf10b-a052-45d0-8bd2-0470ac560551.png)
 
-
-
-
+Sel.leccionem el tema que més ens agrade.
 
 
 
