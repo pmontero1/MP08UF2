@@ -1,4 +1,4 @@
-## Creació de Categories
+##  Creació de Categories
 
 ![image](https://user-images.githubusercontent.com/114423170/207101846-34bfcd4f-1922-4392-9fc8-166f316231f4.png)
 
@@ -15,6 +15,6 @@
 
 
 
-## Cursos Creats
+##  Cursos Creats
 
 ![image](https://user-images.githubusercontent.com/114423170/207120138-96d9bd3e-8de8-463f-b402-8132c97e664a.png)
