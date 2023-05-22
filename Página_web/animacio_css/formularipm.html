@@ -1,0 +1,206 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formularis PAU M</title>
+</head>
+<body >
+    
+<table>
+
+
+<h1 style="text-align: center;">GENERAL ADMINSION REGISTRATION</h1>
+<form>
+ <tr>
+    <td>
+        <!--Nom I Cognoms -->
+        <label for="lname">Nom i Cognom</label>
+        <input type="text" id="lname" name="lname" placeholder="Pau" >  
+        <input type="text" id="lname" name="lname" placeholder="Montero" >  <br><br>
+       <!--Correus Electronic-->
+        <label for="mail"> Correu electronic  </label>
+        <input type="email" id="mail" placeholder="sample@example.com"> <br><br>
+       <!--Genero-->
+        <label for="genero"> Genero</label>
+        <input type="radio" id="Male" name="Genero" value="Hombre">
+       <label for="Male"> Hombre</label>
+       <input type="radio" id="female" name="Genero" value="Mujer">
+       <label for="female"> Mujer</label><br><br>
+       <!--Telefono-->
+       <label for="phone">Telefon</label>
+       <input type="tel" id="Telefon" name="lname" maxlength="11" pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}" > <br><br> 
+       <!--Telefon de Emergencia-->
+       <label for="NmEmergencia" > Telefon de Emergencia</label>
+       <input type="number" id=" NmEmergencia" maxlength="9" placeholder=" Posa el teu numero de Emergencia"> <br><br>
+       <!--Parking-->
+       <label for="parking"> Necesites Parking</label><br>
+       <input type="radio" id="parking" name="parking" value="SI">
+       <label for="parking"> SI</label>
+       <input type="radio" id="Parking" name="parking" value="NO">
+       <label for="parking"> NO</label><br><br>
+     <!--Preferencia de habitació-->
+     <label for="habitació"> Necesites habitació</label><br>
+       <input type="radio" id="parking" name="habitació" value="Shared Room">
+       <label for="habitació"> Habitacio Sol</label>
+       <input type="radio" id="Parking" name="habitació" value="Single room">
+       <label for="habitació"> Habitacio Compartida</label>
+       <input type="radio" id="Parking" name="habitació" value="Not room">
+       <label for="habitació"> No necessites habitació</label><br><br>
+
+    </td>
+    <!--Restriccions Alimenticies-->
+    <td> 
+      <label for="Alimenticies"> Restriccions Alimenticies</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Shared Room">
+      <label for="Alimenticies"> Ninguna</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Single room">
+      <label for="Alimenticies"> Vegetaria</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Not room">
+      <label for="Alimenticies"> Alergia al Gluten</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Single room">
+      <label for="Alimenticies"> Alergia a la Lactosa</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Single room">
+      <label for="Alimenticies"> Alergia a les nous</label><br>
+      <input type="radio" id="Alimenticies" name="Alimenticies" value="Not room">
+      <label for="Alimenticies"> Alergia al marisc</label><br><br>
+ <!--Activitats Necesites-->
+    <label for="Activitats"> Activitats necessites</label><br>
+    <input type="radio" id="Activitats" name="Activitats" value="Shared Room">
+    <label for="Activitats"> Dinar De Gala</label>
+    <input type="radio" id="Activitats" name="Activitats" value="Single room">
+    <label for="Activitats"> Esmorzars</label>
+    <input type="radio" id="Activitats" name="Activitats" value="Not room">
+     <label for="Activitats">Hall de entrada</label><br><br>
+   <!--Llistat de perfils-->
+   <label for="perfils"> Veure perfils en la pagina del event oficial</label><br>
+   <input type="radio" id="perfils" name="perfils" value="Shared Room">
+   <label for="perfils"> Si</label>
+   <input type="radio" id="perfils" name="perfils" value="Single room">
+   <label for="perfils"> No</label>
+</td>
+ </tr>
+</table><br><br><br>
+
+   <!--ACT2-->
+ <label for="lname">Nom   </label>
+        <input type="text" id="lname" name="lname" placeholder="Pau" >  
+ <label for="lname"> Cognom</label>
+        <input type="text" id="lname" name="lname" placeholder="Montero" >  <br>
+
+ <label for="naixement">Data de naixement</label> 
+        <input type="date" id="naixement" name="naixement" placeholder="Montero" >
+        <label for="naixement">Lloc de naixement</label> 
+        <input type="text" id="lname" name="lname" placeholder="Montero" ><br>
+ <label for="Dni">DNI</label>
+        <input type="tel" id="phone" name="phone" placeholder="12345678A" maxlength="9" >
+ <label for="tis">TIS</label>
+        <input type="tel" id="tis" name="tis" pattern="[A-Z] {4}, [0-9] {10}  " maxlength="14" placeholder="TIS" ><br>
+ <label for="lname">Adress   </label>
+        <input type="text" id="lname" name="lname" placeholder="Adrressa " >  <br>
+ <label for="lname">Codi Postal</label>
+        <input type="tel" id="lname" name="lname" placeholder="43213 " maxlength="5" >  
+ <label for="lname">Població   </label>
+        <input type="text" id="lname" name="lname" placeholder="Pau" >  <br>
+ <label for="lname">Provincia   </label>
+        <input type="text" id="lname" name="lname" placeholder="Pau" >  <br>
+  <label for="lname">Correu electronic   </label>
+        <input type="email" id="lname" name="lname" placeholder="Correu Electronic" ><br>  
+ <label for="phone">Telefon</label>
+        <input type="tel" id="Telefon" name="lname" maxlength="11" pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}" > <br><br> 
+
+
+        <Label> Dades de pare Mare o Tutot</Label><br>
+<label for="lname">Nom   </label>
+        <input type="text" id="lname" name="lname" placeholder="Pau" >  
+ <label for="lname"> Cognom</label>
+        <input type="text" id="lname" name="lname" placeholder="Montero" >  <br>
+<label for="Dni">DNI</label>
+        <input type="tel" id="phone" name="phone" placeholder="12345678A" maxlength="9" >
+        
+<label for="Ampa"> Ampa </label>
+        <input type="radio" id="Ampa" name="Ampa" value="Si">
+       <label for="Ampa"> Si</label>
+       <input type="radio" id="Ampa" name="Ampa" value="No">
+       <label for="Ampa"> No</label><br><br>
+       <label for="lname">Correu electronic   </label>
+       <input type="email" id="lname" name="lname" placeholder="Correu Electronic" ><br>  
+<label for="phone">Telefon</label>
+       <input type="tel" id="Telefon" name="lname" maxlength="11" pattern="[0-9]{3}-[0-9]{3}-[0-9]{3}" > <br><br> 
+<br><br>
+<label >Signatura:</label><br>
+<label for="phone">Alcanar</label>
+       <input type="text" id="a" name="a" size="5" >
+       <label for="phone">De</label>
+       <input type="text" id="a" name="a" size="5" >
+       <label for="phone">De 20</label>
+       <input type="text" id="a" name="a" size="5" >
+<p>Mucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho TextoMucho Texto</p>
+<br><br><br>
+
+
+<p>Dades oer a ka domiciliació Bancaria:</p>
+<label for="lname">Nom del titular  </label>
+        <input type="text" id="lname" name="lname" placeholder="Posa el nom aqui" > <br>
+              
+  <label for="lname">Cognom </label>
+        <input type="text" id="lname" name="lname" placeholder="Aqui el cognom" > <br>
+<label for="Dni">DNI</label>
+        <input type="tel" id="phone" name="phone" placeholder="12345678A" maxlength="9" size="10" >
+       
+  <label for="Ampa"> Ampa </label>
+        <input type="radio" id="Ampa" name="Ampa" value="Si">
+       <label for="Ampa"> Si</label>
+       <input type="radio" id="Ampa" name="Ampa" value="No">
+       <label for="Ampa"> No</label><br><br>
+       <label for="lname">Correu electronic   </label><br>
+
+ <label for="lname">Adressa  </label>
+       <input type="text" id="lname" name="lname" placeholder="Posa l'adressa aqui" > <br>
+<label for="lname">Codi Postal</label>
+       <input type="tel" id="lname" name="lname" placeholder="43213 " maxlength="5" >  
+<label for="lname">Població   </label>
+       <input type="text" id="lname" name="lname" placeholder="Població" >  <br>
+<label for="lname">Provincia   </label>
+       <input type="text" id="lname" name="lname" placeholder="Pau" >  <br>
+
+
+<label > Entitat</label>
+<input type="text" size="16">
+<label > Oficina</label>
+<input type="text" size="8">
+<label > D.C</label>
+<input type="text" size="5">
+<label > Compte Núm</label>
+<input type="number"  maxlength="20" size="22">
+
+<label >Signatura:</label><br>
+<label for="phone">Alcanar</label>
+       <input type="text" id="a" name="a" size="5" >
+       <label for="phone">De</label>
+       <input type="text" id="a" name="a" size="5" >
+       <label for="phone">De 20</label>
+       <input type="text" id="a" name="a" size="5" >
+
+
+
+</form>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
